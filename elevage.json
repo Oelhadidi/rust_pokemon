@@ -1,0 +1,30 @@
+[
+  {
+    "nom": "Sushimi",
+    "niveau": 5,
+    "xp": 50,
+    "type_pokemon": "Feu",
+    "genre": "Male"
+  },
+  {
+    "nom": "Tempura",
+    "niveau": 5,
+    "xp": 50,
+    "type_pokemon": "Eau",
+    "genre": "Femelle"
+  },
+  {
+    "nom": "Sushi",
+    "niveau": 5,
+    "xp": 0,
+    "type_pokemon": "Eau",
+    "genre": "Male"
+  },
+  {
+    "nom": "Mystere",
+    "niveau": 1,
+    "xp": 0,
+    "type_pokemon": "Eau",
+    "genre": "Femelle"
+  }
+]
